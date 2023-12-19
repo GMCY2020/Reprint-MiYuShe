@@ -1,0 +1,417 @@
+{
+	"pages": [{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/dynamic/dynamic",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/messages/messages",
+			"style": {
+				"navigationBarTitleText": "消息",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}
+	],
+
+	"subPackages": [{
+		"root": "subpkg",
+		"pages": [{
+			"path": "set/set",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"enablePullDownRefresh": false
+			}
+
+		}    ,{
+                    "path" : "catch/catch",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "person/person",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "coin_get/coin_get",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "获取米游币",
+					"navigationBarBackgroundColor": "#19a3fc",
+					"navigationBarTextStyle": "white",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "coin_put/coin_put",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "兑换中心",
+                    "enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#ffffff"
+                }
+                
+                }
+                ,{
+                    "path" : "my_roles/my_roles",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "games/games",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "collect/collect",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "history/history",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "shop_m/shop_m",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "make/make",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "community/community",
+                    "style" :                                                                                    
+                {
+                    // "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "channel/channel",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "#ffffff"
+                }
+                
+                }
+                ,{
+                    "path" : "time_activity/time_activity",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "prize/prize",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "service/service",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "teenager/teenager",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "AS/AS",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "通行证账号与安全",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "NMN/NMN",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "新消息通知",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "PS/PS",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "隐私设置",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "MS/MS",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "屏蔽设置",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "EPM/EPM",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "护眼模式",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "VA/VA",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "视频自动播放",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "TGPA/TGPA",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "动图自动播放",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "ATMYS/ATMYS",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "关于米游社",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "SAF/SAF",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "UA/UA",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "PP/PP",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "PICL/PICL",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "LPIST/LPIST",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "GDT/GDT",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "经验获取记录",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "get_history/get_history",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "明细查询",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "goods-detail/goods-detail",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false,
+					"navigationBarBackgroundColor": "white"
+                }
+                
+                }
+                ,{
+                    "path" : "SysMes/SysMes",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "系统通知",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "messagesTo/messagesTo",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "H_tools/H_tools",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
+	}],
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#f8f8f8",
+		"backgroundColor": "#f8f8f8",
+		"app-pldus": {
+			"background": "#f8f8f8"
+		}
+	},
+
+	"tabBar": {
+		"list": [{
+				"pagePath": "pages/home/home",
+				"text": "主页",
+				"iconPath": "static/my/tabBar/home.png",
+				"selectedIconPath": "static/my/tabBar/home-active.png"
+
+			},
+			{
+				"pagePath": "pages/dynamic/dynamic",
+				"text": "动态",
+				"iconPath": "static/my/tabBar/dynamic.png",
+				"selectedIconPath": "static/my/tabBar/dynamic-active.png"
+				
+
+			},
+			{
+				"pagePath": "pages/messages/messages",
+				"text": "消息",
+				"iconPath": "static/my/tabBar/message.png",
+				"selectedIconPath": "static/my/tabBar/message-active.png"
+
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/my/tabBar/my.png",
+				"selectedIconPath": "static/my/tabBar/my-active.png"
+
+			}
+		]
+	}
+}
