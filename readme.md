@@ -4,6 +4,7 @@
 
 - 作者: GMCY
 - 系列: 复刻系列
+- 仓库: [GitHub](https://github.com/GMCY2020/Reprint-MiYuShe) | [Gitee](https://gitee.com/GMCY2020/Reprint-MiYuShe)
 - 话题(GitHub): [vue](https://github.com/topics/vue) \ [reprint](https://github.com/topics/reprint) \ [mihoyo](https://github.com/topics/mihoyo) \ [miyushe](https://github.com/topics/miyushe)
 - 创建时间: 2023/01/31
 
