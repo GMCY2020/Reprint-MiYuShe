@@ -191,7 +191,7 @@
 		</view>
 
 		<view class="end">
-
+			
 		</view>
 
 	</scroll-view>
